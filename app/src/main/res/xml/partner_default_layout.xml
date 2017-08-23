@@ -1,4 +1,147 @@
 <?xml version="1.0" encoding="utf-8"?>
 <favorites>
 
+    <appwidget
+        screen="0"
+        x="1"
+        y="0"
+        spanX="4"
+        spanY="2"
+        packageName="com.android.deskclock"
+        className="com.android.alarmclock.DigitalAppWidgetProvider" />
+
+    <folder
+        screen="0"
+        x="0"
+        y="-1"
+        title="@string/google_folder">
+        <favorite
+            packageName="com.google.android.googlequicksearchbox"
+            className="com.google.android.googlequicksearchbox.SearchActivity" />
+        <favorite
+            packageName="com.google.android.apps.maps"
+            className="com.google.android.maps.MapsActivity" />
+        <favorite
+            packageName="com.google.android.apps.docs"
+            className="com.google.android.apps.docs.app.NewMainProxyActivity" />
+        <favorite
+            packageName="com.google.android.music"
+            className="com.android.music.activitymanagement.TopLevelActivity" />
+        <favorite
+            packageName="com.google.android.videos"
+            className="com.google.android.youtube.videos.EntryPoint" />
+        <favorite
+            packageName="com.google.android.talk"
+            className="com.google.android.talk.SigningInActivity" />
+    </folder>
+
+    <favorite
+        screen="0"
+        x="1"
+        y="-1"
+        packageName="com.android.settings"
+        className="com.android.settings.Settings" />
+
+    <favorite
+        screen="0"
+        x="4"
+        y="-1"
+        packageName="com.roco.openweb"
+        className="com.roco.openweb.MainActivity" />
+
+    <favorite
+        screen="0"
+        x="5"
+        y="-1"
+        packageName="com.android.vending"
+        className="com.android.vending.AssetBrowserActivity" />
+
+
+
+    <folder
+        screen="1"
+        x="1"
+        y="-1"
+        title="@string/user_manual_folder">
+        <favorite
+            packageName="com.roco.usermanual"
+            className="com.roco.usermanual.EnglishActivity" />
+        <favorite
+            packageName="com.roco.usermanual"
+            className="com.roco.usermanual.FrenchActivity" />
+        <favorite
+            packageName="com.roco.usermanual"
+            className="com.roco.usermanual.SpanishActivity" />
+    </folder>
+
+    <favorite
+        screen="1"
+        x="2"
+        y="-1"
+        packageName="com.walmart.android"
+        className="com.walmart.android.app.main.MainActivity" />
+
+    <favorite
+        screen="1"
+        x="3"
+        y="-1"
+        packageName="com.rfi.sams.android"
+        className="com.rfi.sams.android.main.SplashActivity" />
+
+    <favorite
+        screen="1"
+        x="4"
+        y="-1"
+        packageName="air.com.vudu.air.DownloaderTablet"
+        className="air.com.vudu.air.DownloaderTablet.SplashScreenActivity" />
+
+    <!-- hotseat -->
+    <favorite
+        container = "-101"
+        screen="0"
+        x="0"
+        y="0"
+        packageName="com.google.android.talk"
+        className="com.google.android.talk.SigningInActivity" />
+
+    <favorite
+        container = "-101"
+        screen="1"
+        x="1"
+        y="0"
+        packageName="com.google.android.gm"
+        className="com.google.android.gm.ConversationListActivityGmail" />
+
+    <favorite
+        container = "-101"
+        screen="2"
+        x="2"
+        y="0"
+        packageName="com.android.chrome"
+        className="com.google.android.apps.chrome.Main" />
+
+    <favorite
+        container = "-101"
+        screen="4"
+        x="4"
+        y="0"
+        packageName="com.google.android.youtube"
+        className="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" />
+
+    <favorite
+        container = "-101"
+        screen="5"
+        x="5"
+        y="0"
+        packageName="com.google.android.apps.photos"
+        className="com.google.android.apps.photos.home.HomeActivity" />
+    <favorite
+        container = "-101"
+        screen="6"
+        x="6"
+        y="0"
+        packageName="com.mediatek.camera"
+        className="com.android.camera.CameraLauncher" />
+
+
 </favorites>
