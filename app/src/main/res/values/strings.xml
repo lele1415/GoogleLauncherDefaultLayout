@@ -1,2 +1,5 @@
 <resources>
+    <string name="app_name">LauncherDefaultLayout</string>
+    <string name="user_manual_folder">User Manual</string>
+    <string name="google_folder">Google</string>
 </resources>
