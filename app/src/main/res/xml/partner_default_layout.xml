@@ -87,7 +87,7 @@
 
     <folder
         screen="1"
-        x="1"
+        x="2"
         y="-1"
         title="@string/user_manual_folder">
         <favorite
@@ -101,26 +101,7 @@
             className="com.roco.usermanual.SpanishActivity" />
     </folder>
 
-    <favorite
-        screen="1"
-        x="2"
-        y="-1"
-        packageName="com.walmart.android"
-        className="com.walmart.android.app.main.MainActivity" />
 
-    <favorite
-        screen="1"
-        x="3"
-        y="-1"
-        packageName="com.rfi.sams.android"
-        className="com.rfi.sams.android.main.SplashActivity" />
-
-    <favorite
-        screen="1"
-        x="4"
-        y="-1"
-        packageName="air.com.vudu.air.DownloaderTablet"
-        className="air.com.vudu.air.DownloaderTablet.SplashScreenActivity" />
 
     <!-- hotseat -->
     <favorite
