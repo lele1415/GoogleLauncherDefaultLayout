@@ -85,24 +85,6 @@
 
 
 
-    <folder
-        screen="1"
-        x="2"
-        y="-1"
-        title="@string/user_manual_folder">
-        <favorite
-            packageName="com.roco.usermanual"
-            className="com.roco.usermanual.EnglishActivity" />
-        <favorite
-            packageName="com.roco.usermanual"
-            className="com.roco.usermanual.FrenchActivity" />
-        <favorite
-            packageName="com.roco.usermanual"
-            className="com.roco.usermanual.SpanishActivity" />
-    </folder>
-
-
-
     <!-- hotseat -->
     <favorite
         container = "-101"
