@@ -58,22 +58,6 @@
 
 
 
-    <folder
-        screen="1"
-        x="1"
-        y="-1"
-        title="@string/user_manual_folder">
-        <favorite
-            packageName="com.roco.usermanual"
-            className="com.roco.usermanual.EnglishActivity" />
-        <favorite
-            packageName="com.roco.usermanual"
-            className="com.roco.usermanual.FrenchActivity" />
-        <favorite
-            packageName="com.roco.usermanual"
-            className="com.roco.usermanual.SpanishActivity" />
-    </folder>
-
     <favorite
         screen="1"
         x="2"
